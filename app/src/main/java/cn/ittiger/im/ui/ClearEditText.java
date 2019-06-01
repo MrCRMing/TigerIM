@@ -15,7 +15,7 @@ import cn.ittiger.im.R;
  * @auther: hyl
  * @time: 2015-10-20下午3:02:42
  */
-public class ClearEditText extends EditText {
+public class ClearEditText extends android.support.v7.widget.AppCompatEditText {
 	/**
 	 * 清除图标是否显示
 	 */
